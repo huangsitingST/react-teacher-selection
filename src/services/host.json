@@ -1,0 +1,9 @@
+{
+  "ACCOUNT_CENTER_LOGIN": "https://account-center-test.readboy.com",
+  "LOGIN": "https://api.ebag-test.readboy.com/login",
+  "EBAG_DOMAIN": "https://ebag-test.readboy.com/famous-teacher-selection",
+  "DOMAIN_XINCHANGE": "https://xzxc.zjxc.gov.cn/famous-teacher-selection",
+  "TEACHER_AWARDS": "https://api.ebag-test.readboy.com/teachers-awards",
+  "TEACHER_LEARNING": "https://ebag-test.readboy.com/teaching-learning-research/",
+  "XIN_CHANG_EDUCATION_CUBE": "https://ebag-test.readboy.com/xinchang-education-cube/home-page"
+}

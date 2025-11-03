@@ -1,0 +1,13 @@
+// Less 变量（给需要在 .less 文件里直接用 @var 的场景）
+
+@headerHeight: 40px;
+// 全局 CSS 变量（运行时可动态覆盖，例如切换主题时注入新值）
+:root {
+  --header-height: @headerHeight;
+
+  // 滚动条
+  --scrollbar-thumb-bg: #ccc;
+  --scrollbar-track-bg: #f0f2f500;
+}
+
+
